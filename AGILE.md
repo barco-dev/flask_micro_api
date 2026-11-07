@@ -21,8 +21,8 @@ Build and verify a minimal Flask REST API with JSON responses for `/hello` and `
 - [x] Create `requirements.txt`.
 - [x] Create Python `requests` test script.
 - [x] Write project documentation.
-- [ ] Capture screenshots of successful API calls.
-- [ ] Push completed project to GitHub.
+- [x] Capture screenshots of successful API calls.
+- [x] Push completed project to GitHub.
 
 ## Definition of Done
 
